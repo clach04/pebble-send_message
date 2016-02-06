@@ -1,0 +1,43 @@
+{
+    "appKeys": {
+        "label1": 2,
+        "label2": 3,
+        "label3": 4,
+        "msg": 1,
+        "queries1": 5,
+        "queries2": 6,
+        "queries3": 7,
+        "text1": 8,
+        "text2": 9,
+        "text3": 10
+    },
+    "capabilities": [
+        "location",
+        "configurable"
+    ],
+    "companyName": "peter@summers.aus.net",
+    "longName": "Send Message",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/sendmessagecolor28.png",
+                "menuIcon": true,
+                "name": "Menu_Image",
+                "type": "bitmap"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Send Message",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "5135b152-f9ad-40ff-987d-8f5ff4e31ea4",
+    "versionLabel": "3.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
